@@ -1,0 +1,18 @@
+title: Applait Blog
+email: contact@applait.com
+description: Updates from Applait
+url: "https://blog.applait.com"
+twitter_username: applait
+github_username:  applait
+author: Applait Technologies LLP
+
+markdown: kramdown
+sass:
+    style: compressed
+
+exclude:
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .gitignore
